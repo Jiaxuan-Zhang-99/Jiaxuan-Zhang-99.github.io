@@ -1,8 +1,8 @@
 
 
-[![Jiaxuan-Zhang-99](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Jiaxuan-Zhang-99)
+[![Jiaxuan-Zhang-99](https://img.shields.io/badge/Jiaxuan-Zhang-99-github-blue?logo=github)](https://github.com/Jiaxuan-Zhang-99)
 
-A PhD Student at School of Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology, China.
+A PhD student at School of Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology, China.
 
 #### Email
 jiaxuan_zhang@hust.edu.cn
