@@ -1,6 +1,6 @@
 
 
-[![Jiaxuan-Zhang-99](https://img.shields.io/badge/Jiaxuan-Zhang-99-github-blue?logo=github)](https://github.com/Jiaxuan-Zhang-99)
+[![Jiaxuan-Zhang-99](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiaxuan-Zhang-99)
 
 A PhD student at School of Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology, China.
 
@@ -8,7 +8,7 @@ A PhD student at School of Naval Architecture & Ocean Engineering, Huazhong Univ
 jiaxuan_zhang@hust.edu.cn
 
 #### Education
-PhD in Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology, expected 2028 \
+PhD in Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology, expected 2028. \
 B.Eng. in Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology, graduated 2021.
 
 #### Research Interests
