@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Jiaxuan-Zhang-99](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Jiaxuan-Zhang-99)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+A PhD Student at School of Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+jiaxuan_zhang@hust.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+PhD in Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology, expected 2028 \
+B.Eng. in Naval Architecture & Ocean Engineering, Huazhong University of Science & Technology, graduated 2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Ocean Engineering, especially structrual analysis of flexible risers, umbicals, and power cables.
